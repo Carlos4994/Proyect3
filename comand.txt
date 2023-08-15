@@ -1,0 +1,4 @@
+This script should work as intended, displaying the available services, prompting for user input,
+and adding appointments to the database. It also incorporates the corrections and suggestions 
+mentioned earlier for better readability. Just save this script to a file named salon.sh, 
+  make it executable with chmod +x salon.sh, and run it with ./salon.sh.
